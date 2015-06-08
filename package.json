@@ -6,5 +6,9 @@
     "type": "git",
     "url": "?.git"
   },
-  "author": "Rodrigo Muniz"
+  "author": "Rodrigo Muniz",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.5"
+  }
 }
